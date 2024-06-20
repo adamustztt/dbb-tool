@@ -1,0 +1,22 @@
+{
+    "name": "dbb/dbb-tool",
+    "description": "dbb工具",
+    "type": "library",
+    "license": "BSD",
+    "autoload": {
+        "psr-4": {
+            "Dbb\\DbbTool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ztt",
+            "email": "604707039@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "elasticsearch/elasticsearch": "dev-main",
+        "php-amqplib/php-amqplib": "^3.6"
+    }
+}
