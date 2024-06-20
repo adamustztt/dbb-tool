@@ -2,7 +2,6 @@
     "name": "dbb/dbb-tool",
     "description": "dbb工具",
     "type": "library",
-    "license": "BSD",
     "autoload": {
         "psr-4": {
             "Dbb\\DbbTool\\": "src/"
