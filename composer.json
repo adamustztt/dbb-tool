@@ -2,6 +2,7 @@
     "name": "dbb/dbb-tool",
     "description": "dbb工具",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Dbb\\DbbTool\\": "src/"
