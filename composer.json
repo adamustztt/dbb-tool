@@ -17,6 +17,7 @@
     "minimum-stability": "dev",
     "require": {
         "elasticsearch/elasticsearch": "dev-main",
-        "php-amqplib/php-amqplib": "^3.6"
+        "php-amqplib/php-amqplib": "^3.6",
+        "adamustztt/dbb-tool": "v1.0.0"
     }
 }
